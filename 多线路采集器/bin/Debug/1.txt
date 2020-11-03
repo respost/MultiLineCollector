@@ -1,0 +1,4 @@
+﻿# 标题名称
+采集地址1 ===> 例如 http://127.0.0.1/caiji.php?type=1
+采集地址2 ===> 例如 http://127.0.0.1/caiji.php?type=2
+采集地址3 ===> 例如 http://127.0.0.1/caiji.php?type=3

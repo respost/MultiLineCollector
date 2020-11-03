@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线路采集器", "多线路采集器\多线路采集器.csproj", "{A09F68AC-D8E1-4ED0-88DE-5723F4A3EAE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09F68AC-D8E1-4ED0-88DE-5723F4A3EAE8}.Debug|x86.ActiveCfg = Debug|x86
+		{A09F68AC-D8E1-4ED0-88DE-5723F4A3EAE8}.Debug|x86.Build.0 = Debug|x86
+		{A09F68AC-D8E1-4ED0-88DE-5723F4A3EAE8}.Release|x86.ActiveCfg = Release|x86
+		{A09F68AC-D8E1-4ED0-88DE-5723F4A3EAE8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
